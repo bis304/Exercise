@@ -1,5 +1,1 @@
 print("This is for exercise purpose")
-Print("I'll add two numbers")
-x<- 5
-y<- 4
-z<- x+y
